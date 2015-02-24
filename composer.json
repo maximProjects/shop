@@ -1,0 +1,10 @@
+{
+    "name": "user/shop.local",
+    "authors": [
+        {
+            "name": "maxim",
+            "email": "maxim@inlu.net"
+        }
+    ],
+    "require": {}
+}
